@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styling search engine block */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,7 +83,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 } 
-
+/* set inset image height*/
 .search-engine-optimization .online-reputation-management .social-media-marketing, img {
     max-height: 200px;
 } 
@@ -92,7 +92,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style the left side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,13 +113,13 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* set size of the inset icons */
 .benefit-lead img .benefit-brand img .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* style the page footer and center text line */
 .footer {
     padding: 30px;
     clear: both;
